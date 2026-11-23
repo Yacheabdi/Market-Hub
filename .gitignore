@@ -1,0 +1,8 @@
+.env
+/public/uploads/products/*
+!/public/uploads/products/.gitkeep
+/node_modules/
+realtime/node_modules/
+realtime/mpesa_ipn.log
+.DS_Store
+*.log
